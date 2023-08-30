@@ -1,0 +1,23 @@
+[
+  {
+    "id": "d580c3ac-d80c-4f76-a8b2-efaacab9a753",
+    "avatar": "http://localhost:3000/avatars/avatar2.png",
+    "firstName": "Fill",
+    "lastName": "Johns",
+    "position": "Lead Designer at Company Name"
+  },
+  {
+    "id": "04205477-355b-427e-9f90-98a922dcb0bd",
+    "avatar": "http://localhost:3000/avatars/avatar3.png",
+    "firstName": "Jameson",
+    "lastName": "Brown",
+    "position": "Lead Engineer at Company Name"
+  },
+  {
+    "id": "94bf5157-1304-4eb8-9d12-fb292e14a041",
+    "avatar": "http://localhost:3000/avatars/avatar1.png",
+    "firstName": "Kim",
+    "lastName": "Chang",
+    "position": "CEO at Company Name"
+  }
+]
